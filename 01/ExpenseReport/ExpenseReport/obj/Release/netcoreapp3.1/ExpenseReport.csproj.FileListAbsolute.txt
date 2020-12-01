@@ -1,0 +1,12 @@
+F:\Projekte\2020-12-01-Advent_of_Code_2020\01\ExpenseReport\ExpenseReport\bin\Release\netcoreapp3.1\ExpenseReport.exe
+F:\Projekte\2020-12-01-Advent_of_Code_2020\01\ExpenseReport\ExpenseReport\bin\Release\netcoreapp3.1\ExpenseReport.deps.json
+F:\Projekte\2020-12-01-Advent_of_Code_2020\01\ExpenseReport\ExpenseReport\bin\Release\netcoreapp3.1\ExpenseReport.runtimeconfig.json
+F:\Projekte\2020-12-01-Advent_of_Code_2020\01\ExpenseReport\ExpenseReport\bin\Release\netcoreapp3.1\ExpenseReport.runtimeconfig.dev.json
+F:\Projekte\2020-12-01-Advent_of_Code_2020\01\ExpenseReport\ExpenseReport\bin\Release\netcoreapp3.1\ExpenseReport.dll
+F:\Projekte\2020-12-01-Advent_of_Code_2020\01\ExpenseReport\ExpenseReport\bin\Release\netcoreapp3.1\ExpenseReport.pdb
+F:\Projekte\2020-12-01-Advent_of_Code_2020\01\ExpenseReport\ExpenseReport\obj\Release\netcoreapp3.1\ExpenseReport.AssemblyInfoInputs.cache
+F:\Projekte\2020-12-01-Advent_of_Code_2020\01\ExpenseReport\ExpenseReport\obj\Release\netcoreapp3.1\ExpenseReport.AssemblyInfo.cs
+F:\Projekte\2020-12-01-Advent_of_Code_2020\01\ExpenseReport\ExpenseReport\obj\Release\netcoreapp3.1\ExpenseReport.csproj.CoreCompileInputs.cache
+F:\Projekte\2020-12-01-Advent_of_Code_2020\01\ExpenseReport\ExpenseReport\obj\Release\netcoreapp3.1\ExpenseReport.dll
+F:\Projekte\2020-12-01-Advent_of_Code_2020\01\ExpenseReport\ExpenseReport\obj\Release\netcoreapp3.1\ExpenseReport.pdb
+F:\Projekte\2020-12-01-Advent_of_Code_2020\01\ExpenseReport\ExpenseReport\obj\Release\netcoreapp3.1\ExpenseReport.genruntimeconfig.cache
