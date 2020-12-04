@@ -9,20 +9,6 @@ namespace PasswortProcessing
 {
     class Program
     {
-        class PassportData
-        {
-            public string byr { get; set; }
-            public int iyr { get; set; }
-            public int eyr { get; set; }
-            public string hgt { get; set; }
-            public string hcl { get; set; }
-            public string ecl { get; set; }
-            public string pid { get; set; }
-            public string cid { get; set; }
-            public int ID { get; set; }
-        }
-
-
         static void Main(string[] args)
         {
             string[] input = File.ReadAllLines("input.txt");
@@ -88,7 +74,6 @@ namespace PasswortProcessing
                         throw new Exception("Passport Invalid!");
                     }
 
-                    //HGT TO DO
                     Regex re = new Regex(@"(\d+)([a-zA-Z]+)"); 
                     Match result = re.Match(height);
                     string measurement = result.Groups[2].ToString();
@@ -138,28 +123,6 @@ namespace PasswortProcessing
             }
 
             Console.WriteLine($"{counter} passwords are valid!");
-
-
-
-
-            //int counter = 0;
-            //var conditions = new[] { "byr", "iyr", "eyr", "hgt", "hcl", "ecl", "pid" };
-            //foreach (string passport in passports)
-            //{
-            //    foreach (string condition in conditions)
-            //    {
-            //        if (!passport.Contains(condition))
-            //        {
-            //            Console.WriteLine("passport invalid!");
-            //            counter -= 1;
-            //            break;
-            //        }
-                    
-            //    }
-            //    counter += 1;
-            //}
-
-            //Console.WriteLine($"{counter} passwords are valid!");
 
         }
     }
